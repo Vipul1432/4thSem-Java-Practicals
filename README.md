@@ -18,6 +18,11 @@ y = af - ec / ad - bc)
 ![image](https://user-images.githubusercontent.com/81670997/168250309-6fc8405b-8fd0-4988-87b7-1e672a7580ab.png)
 
 
+#Practical 3 :
+
+Write a program that reads a number in meters, converts it to feet, and displays the result.
+
+
 
 
 
