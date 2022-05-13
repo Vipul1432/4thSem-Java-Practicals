@@ -6,4 +6,16 @@ Write a Program that displays Welcome to Java, Learning Java Now and Programming
 
 ![image](https://user-images.githubusercontent.com/81670997/168249847-c7329da6-65a8-4659-94c3-e643257c885e.png)
 
+#Practical 2 : 
+
+Write a program that solves the following equation and displays the value x and y: 
+1) 3.4x+50.2y=44.5 2) 2.1x+.55y=5.9 (Assume Cramer’s rule to solve equation 
+ax + by = e                                      
+x = ed – bf / ad - bc 
+cx + dy = f                                      
+y = af - ec / ad - bc)
+
+
+
+
 
