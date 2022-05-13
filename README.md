@@ -15,6 +15,9 @@ x = ed – bf / ad - bc
 cx + dy = f                                      
 y = af - ec / ad - bc)
 
+![image](https://user-images.githubusercontent.com/81670997/168250309-6fc8405b-8fd0-4988-87b7-1e672a7580ab.png)
+
+
 
 
 
