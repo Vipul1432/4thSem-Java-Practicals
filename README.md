@@ -26,6 +26,8 @@ Write a program that reads a number in meters, converts it to feet, and displays
 
 #Practical 4 : 
 
+![image](https://user-images.githubusercontent.com/81670997/168461038-4523d85c-9f09-40ca-b18b-e7fcf7d634bc.png)
+
 
 
 
