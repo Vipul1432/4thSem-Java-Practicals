@@ -30,6 +30,8 @@ Body Mass Index (BMI) is a measure of health on weight. It can be calculated by 
 
 ![image](https://user-images.githubusercontent.com/81670997/168461038-4523d85c-9f09-40ca-b18b-e7fcf7d634bc.png)
 
+Practical 5 : 
+
 
 
 
