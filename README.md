@@ -34,6 +34,9 @@ Practical 5 :
 
 Write a program that prompts the user to enter three integers and display the integers in decreasing order.
 
+![image](https://user-images.githubusercontent.com/81670997/168461129-e6437a70-8587-4be5-b4be-cf92d14bb6b9.png)
+
+
 
 
 
