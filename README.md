@@ -32,6 +32,10 @@ Body Mass Index (BMI) is a measure of health on weight. It can be calculated by 
 
 Practical 5 : 
 
+Write a program that prompts the user to enter three integers and display the integers in decreasing order.
+
+
+
 
 
 
