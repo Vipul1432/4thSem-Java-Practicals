@@ -40,6 +40,9 @@ Write a program that prompts the user to enter three integers and display the in
 
 Write a program that prompts the user to enter a letter and check whether a letter is a vowel or constant.
 
+![image](https://user-images.githubusercontent.com/81670997/168738028-ce0a982e-fda0-4d89-bea9-3b21bcb7320f.png)
+
+
 
 
 
