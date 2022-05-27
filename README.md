@@ -48,7 +48,7 @@ Assume a vehicle plate number consists of three uppercase letters followed by fo
 
 ![image](https://user-images.githubusercontent.com/81670997/170633807-12b23aa7-72cf-4850-b484-92ef60f9b09a.png)
 
-#Practical :
+#Practical 8 :
 
 Write a program that reads an integer and displays all its smallest factors in increasing order. For example, if input number is 120, the output should be as follows:2,2,2,3,5.
 
