@@ -44,6 +44,8 @@ Write a program that prompts the user to enter a letter and check whether a lett
 
 #Practical 7 : 
 
+Assume a vehicle plate number consists of three uppercase letters followed by four digits. Write a program to generate a plate number.
+
 
 
 
