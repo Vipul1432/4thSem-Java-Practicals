@@ -60,6 +60,8 @@ Write a program that prompts the user to enter two integers and compute the gcd 
 
 ![image](https://user-images.githubusercontent.com/81670997/170850612-7c2c81ea-4b42-45e6-bcdf-eb9a676c0fb4.png)
 
+#Praclical 10 :
+
 
 
 
