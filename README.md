@@ -56,6 +56,8 @@ Write a program that reads an integer and displays all its smallest factors in i
 
 #practiacl 9 :
 
+Write a program that prompts the user to enter two integers and compute the gcd of two integers.
+
 
 
 
