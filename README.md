@@ -62,6 +62,8 @@ Write a program that prompts the user to enter two integers and compute the gcd 
 
 #Praclical 10 :
 
+Write a test program that prompts the user to enter ten numbers, invoke a method to reverse the numbers, display the numbers
+
 
 
 
