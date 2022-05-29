@@ -54,6 +54,8 @@ Write a program that reads an integer and displays all its smallest factors in i
 
 ![image](https://user-images.githubusercontent.com/81670997/170633946-3a80cf3a-907b-48a0-bfc5-a8adcae1f9df.png)
 
+#practiacl 9 :
+
 
 
 
