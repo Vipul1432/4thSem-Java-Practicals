@@ -60,7 +60,7 @@ Write a program that prompts the user to enter two integers and compute the gcd 
 
 ![image](https://user-images.githubusercontent.com/81670997/170850612-7c2c81ea-4b42-45e6-bcdf-eb9a676c0fb4.png)
 
-#Practical 10 :
+#Practical 10 : 
 
 Write a test program that prompts the user to enter ten numbers, invoke a method to reverse the numbers, display the numbers
 
